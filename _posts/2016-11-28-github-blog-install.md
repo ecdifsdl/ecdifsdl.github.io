@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github에 hexo와 hueman 테마를 사용한 블로그 만들기(맥 환경)
-date: 2016-11-27 12:03:31
+date: 2016-11-28 12:03:31
 toc: true
 category: 컴퓨터
 tags: [Github, hexo, hueman theme]
