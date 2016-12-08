@@ -2,7 +2,7 @@
 
 .site-header{
     color: #fff;
-    background: #4183c4;
+    background: linear-gradient(120deg, #155799, #159957);
 }
 
 .site-header #site-header-brand {
