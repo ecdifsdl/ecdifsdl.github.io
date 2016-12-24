@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Example no sidebar"
-date:   2016-05-14 13:25:35 
+date:   2016-05-14 13:25:35 +0900
 categories: jekyll update
 no-post-nav: true
 ---
