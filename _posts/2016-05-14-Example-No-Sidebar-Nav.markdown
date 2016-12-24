@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-13 13:25:35 +0200
+title:  "Example no sidebar"
+date:   2016-05-14 13:25:35 +0900
 categories: jekyll update
 no-post-nav: true
 ---
@@ -14,6 +14,7 @@ You just need to set **no-post-nav: true** for your post
 ㅏ
 ᆼᆫㅣㅏㅣㅏ
 
+.
 
 ᆼᆫㅣㅏㅣ
 
